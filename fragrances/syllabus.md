@@ -21,8 +21,14 @@ Welcome to your journey into the world of perfumery. This curriculum is designed
 *   **Naturals vs. Synthetics**: Dispelling the myths and understanding the role of chemistry.
 *   **Iconic Notes**: A deep dive into Rose, Jasmine, Bergamot, Vetiver, Oud, Musk, and Ambergris.
 
-### Phase 4: finding Your Scent
+### Phase 4: Finding Your Scent
 **[04-selection-guide.md](./04-selection-guide.md)**
 *   **Testing Protocol**: How to properly test a fragrance (blotters vs. skin).
 *   **Building a Wardrobe**: Curating scents for seasons, occasions, and moods.
 *   **Care & Storage**: Ensuring your collection lasts.
+
+### Phase 5: The Creator's Path
+**[05-becoming-a-perfumer.md](./05-becoming-a-perfumer.md)**
+*   **Career Paths**: ISIPCA vs. Self-Taught.
+*   **The Lab**: Building your Perfumer's Organ and buying scales.
+*   **Jean Carles Method**: The scientific way to learn smells.
